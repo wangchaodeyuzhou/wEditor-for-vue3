@@ -25,7 +25,7 @@
 import { defineComponent, computed, ref, shallowRef, reactive, onBeforeUnmount } from 'vue'
 import Editor from '../components/Editor.vue'
 import Toolbar from '../components/Toolbar.vue'
-import { IDomEditor } from '@wangeditor/editor'
+import { IDomEditor } from '@wangchaodeyuzhou/editor'
 
 export default defineComponent({
   components: {
@@ -127,5 +127,5 @@ export default defineComponent({
 </script>
 
 <style>
-@import url(@wangeditor/editor/dist/css/style.css);
+@import url(@wangchaodeyuzhou/editor/dist/css/style.css);
 </style>

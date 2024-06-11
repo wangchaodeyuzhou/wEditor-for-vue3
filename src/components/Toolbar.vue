@@ -3,7 +3,7 @@
 </template>
 <script lang="ts">
 import { defineComponent, ref, watchEffect, PropType } from 'vue'
-import { createToolbar, IToolbarConfig, IDomEditor, DomEditor } from '@wangeditor/editor'
+import { createToolbar, IToolbarConfig, IDomEditor, DomEditor } from '@wangchaodeyuzhou/editor'
 
 export default defineComponent({
   props: {

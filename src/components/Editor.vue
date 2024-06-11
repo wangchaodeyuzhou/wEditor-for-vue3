@@ -4,7 +4,7 @@
 
 <script lang="ts">
 import { onMounted, defineComponent, ref, PropType, toRaw, watch, shallowRef } from 'vue'
-import { createEditor, IEditorConfig, SlateDescendant, IDomEditor } from '@wangeditor/editor'
+import { createEditor, IEditorConfig, SlateDescendant, IDomEditor } from '@wangchaodeyuzhou/editor'
 import { genErrorInfo } from '../utils/create-info'
 
 export default defineComponent({

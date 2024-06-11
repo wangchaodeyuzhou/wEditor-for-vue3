@@ -17,7 +17,7 @@
 import { defineComponent, ref, shallowRef, onBeforeUnmount, onMounted } from 'vue'
 import Editor from '../components/Editor.vue'
 import Toolbar from '../components/Toolbar.vue'
-import { IDomEditor } from '@wangeditor/editor'
+import { IDomEditor } from '@wangchaodeyuzhou/editor'
 
 export default defineComponent({
   components: {
