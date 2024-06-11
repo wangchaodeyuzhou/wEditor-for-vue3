@@ -1887,24 +1887,24 @@
     js-beautify "^1.14.9"
     vue-component-type-helpers "^2.0.0"
 
-"@wangchaodeyuzhou/basic-modules@^1.1.7":
-  version "1.1.7"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/basic-modules/-/basic-modules-1.1.7.tgz#e01965d4d7b1e7d46b104cc0519107eba7cffa10"
-  integrity sha512-S1fINSgURLGNHmuZt5pVKOXQ4uLEEsapFVydDt5Pxk39odRzX6TKvFgVk9FvyiAm6h7FGsnBxZ4ClIKqtgkCDw==
+"@wangchaodeyuzhou/basic-modules@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/basic-modules/-/basic-modules-1.2.0.tgz#7c26fa78b480047a77f16a66107d28ee32ad9437"
+  integrity sha512-NXVpxF/Gm0gdQyRsYOxdSA3VPAsTzHp37Eus3bmsFP3bcKtTvU2tvLF6AD8lgRCgNKBPUWkE3Ntx22jitgWD3A==
   dependencies:
     is-url "^1.2.4"
 
-"@wangchaodeyuzhou/code-highlight@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/code-highlight/-/code-highlight-1.0.3.tgz#0defcc0798df1ea1e272541bd566c2d14130c3cb"
-  integrity sha512-FXSZDukqIJFqhuW4ah0ckR8sDI/TEHCyGLyiZpIhiIG87Lp6ZLs5aH9DZAMqJzxxLEE0RmZFAXwicJanKrrOCw==
+"@wangchaodeyuzhou/code-highlight@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/code-highlight/-/code-highlight-1.1.0.tgz#e4ac784a4b2b510b152aa04f7755054c2d5c96ca"
+  integrity sha512-mxJdVF4PqkZ02QgBvrkuMs71ATGJ+BE6YWFuXyqplQMRJUP+W+ald3BRTO6njJn8NgRqn4osoT91fsHS/i/b3w==
   dependencies:
     prismjs "^1.23.0"
 
-"@wangchaodeyuzhou/core@^1.1.19":
-  version "1.1.19"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/core/-/core-1.1.19.tgz#45ea8793bd48aa18f453762b38d77d8364a4582a"
-  integrity sha512-0HcRkdMS7D6LpRVd0qp+gMzRNUWrWR2+wRRcYRzPOD1JYM1YJFOtvCvM+LzIq2bCuXHQEtbJCouBePJE58klQg==
+"@wangchaodeyuzhou/core@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/core/-/core-1.2.0.tgz#7c8052b394c756f21554091375a7c1bbd39fe9a5"
+  integrity sha512-mlag6LZT48aLOx4x+M4odkh/HjRm42gilPyghWbM9hEElBYWK45ScTjZUaXcfcye3hwOO1epQVnLr0104piz5A==
   dependencies:
     "@types/event-emitter" "^0.3.3"
     event-emitter "^0.3.5"
@@ -1913,20 +1913,20 @@
     scroll-into-view-if-needed "^2.2.28"
     slate-history "^0.66.0"
 
-"@wangchaodeyuzhou/editor@^5.1.23":
-  version "5.1.23"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/editor/-/editor-5.1.23.tgz#ef6b8ca08314a983ebd3c225b88d347d20cb5e51"
-  integrity sha512-A6ONH4LVEC/+9w7JbW5+ai6x4B+IlLNWUrMfjR4WNDsvC7fvyn+gWjjo7KwN5Gqgb5+wifnxdTWNUIyR7hHOrg==
+"@wangchaodeyuzhou/editor@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/editor/-/editor-5.2.0.tgz#53d094611db016198b147b1c31cc55625b102288"
+  integrity sha512-P/WxqH1b5YwkUZ0zwfj8pjcOiPAy7oY0jE11IWzelu6ZfqbwwuXkM+FiIQsRCdk0TSto/RPPUwHk4cCUryN5ig==
   dependencies:
     "@uppy/core" "^2.1.1"
     "@uppy/xhr-upload" "^2.0.3"
-    "@wangchaodeyuzhou/basic-modules" "^1.1.7"
-    "@wangchaodeyuzhou/code-highlight" "^1.0.3"
-    "@wangchaodeyuzhou/core" "^1.1.19"
-    "@wangchaodeyuzhou/list-module" "^1.0.5"
-    "@wangchaodeyuzhou/table-module" "^1.1.4"
-    "@wangchaodeyuzhou/upload-image-module" "^1.0.2"
-    "@wangchaodeyuzhou/video-module" "^1.1.4"
+    "@wangchaodeyuzhou/basic-modules" "^1.2.0"
+    "@wangchaodeyuzhou/code-highlight" "^1.1.0"
+    "@wangchaodeyuzhou/core" "^1.2.0"
+    "@wangchaodeyuzhou/list-module" "^1.1.0"
+    "@wangchaodeyuzhou/table-module" "^1.2.0"
+    "@wangchaodeyuzhou/upload-image-module" "^1.1.0"
+    "@wangchaodeyuzhou/video-module" "^1.2.0"
     dom7 "^3.0.0"
     is-hotkey "^0.2.0"
     lodash.camelcase "^4.3.0"
@@ -1940,25 +1940,25 @@
     slate "^0.72.0"
     snabbdom "^3.1.0"
 
-"@wangchaodeyuzhou/list-module@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/list-module/-/list-module-1.0.5.tgz#90382ed7fbd2e658f7acb377103949b0713b0867"
-  integrity sha512-5hefjR31TTL+ZNfAUBgkjFQD8TfeiarsFP7uxFRc167cvWxffbBAV2sUpuAiD27yj+eSPztxau/nsMKawxybSw==
+"@wangchaodeyuzhou/list-module@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/list-module/-/list-module-1.1.0.tgz#d91194ec7fdc0b28a3f9811c2f77a02124c9cdaa"
+  integrity sha512-gqO3cwTOk6Jg0yYXf2XSk372zjrqI3W/+Iiq3cztDpiInPNWPGA2E3insF69xsZmtwPP71bHy5FVZG5qynAg5w==
 
-"@wangchaodeyuzhou/table-module@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/table-module/-/table-module-1.1.4.tgz#56a2d6ad15faf52cd7e7b08cc08e81450da1e71b"
-  integrity sha512-N0JLdmWJtZRxkdSkUsmZjMQ21Mrui2gGMlZiVNngBVEwG+nC3NoYiY+P5XWglm++9lrkd6mfbZG22IeDwlBy0A==
+"@wangchaodeyuzhou/table-module@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/table-module/-/table-module-1.2.0.tgz#d667b6f66f5ee82ab429c9b19e05c967e3faf566"
+  integrity sha512-duDvUi/mSQp7zJiDW8qreZQFHBb63hUADLjki9tKOl7UgDLqJTonEDCotPKmgNFQBB6ujat9odNvTE+5yyLx9A==
 
-"@wangchaodeyuzhou/upload-image-module@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/upload-image-module/-/upload-image-module-1.0.2.tgz#75233abc3062eb568ec0610ff0c5957f72113f30"
-  integrity sha512-dXfIBnDUA3BT9aYMntACh+UUtVzWHVCWL8xbV/OeWfv7uCxWfbJUgMFwPBbxatWDjBevlnWGfp+sjvI9ujyGhA==
+"@wangchaodeyuzhou/upload-image-module@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/upload-image-module/-/upload-image-module-1.1.0.tgz#baf851a4dabcb1c1e4b74281d6477088c4d647bd"
+  integrity sha512-Q7fD+Tq/GX2svSg+YubCXsB44EDFQY1j6DwXke6/CBhBEOdhQMvdvIuu+WN861fIh8IqLAESxhqttkA8aD4lzg==
 
-"@wangchaodeyuzhou/video-module@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/video-module/-/video-module-1.1.4.tgz#700aba0a5ffb2042d4897b733375d0f344ffd882"
-  integrity sha512-gPg8S6JYj8Iqhpmp3HCAJYkYTzXlxd/m9mVbRyQYITTEh9+N8lY0+LMLGxl7eMBexVx5sgs6T+SFFOSia9TbYg==
+"@wangchaodeyuzhou/video-module@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/video-module/-/video-module-1.2.0.tgz#7d14ff922048afa6a3b0b5c70701d6bc200a4bac"
+  integrity sha512-bl3E8CF0m1rAQEKaU/69J1fjC7pS0VeGDvwfiK5aRfU72+V63XIeea9wFNky1sj8F5XY+pDJIA9dSn3N8Ch7FQ==
 
 abab@^2.0.0:
   version "2.0.6"
