@@ -1901,10 +1901,10 @@
   dependencies:
     prismjs "^1.23.0"
 
-"@wangchaodeyuzhou/core@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/core/-/core-1.2.0.tgz#7c8052b394c756f21554091375a7c1bbd39fe9a5"
-  integrity sha512-mlag6LZT48aLOx4x+M4odkh/HjRm42gilPyghWbM9hEElBYWK45ScTjZUaXcfcye3hwOO1epQVnLr0104piz5A==
+"@wangchaodeyuzhou/core@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/core/-/core-1.2.1.tgz#5b61fb2d674a67207b108834c77e59b7f3ce3649"
+  integrity sha512-JUIjCD30W+O1yCDvfLVy6FSlXF0JqoT9h3l5ofHyYTdy21pgxWBHVrqfec+tKyIvldKgXf6FnFrH8CtQjriapw==
   dependencies:
     "@types/event-emitter" "^0.3.3"
     event-emitter "^0.3.5"
@@ -1913,16 +1913,16 @@
     scroll-into-view-if-needed "^2.2.28"
     slate-history "^0.66.0"
 
-"@wangchaodeyuzhou/editor@^5.2.0":
-  version "5.2.0"
-  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/editor/-/editor-5.2.0.tgz#53d094611db016198b147b1c31cc55625b102288"
-  integrity sha512-P/WxqH1b5YwkUZ0zwfj8pjcOiPAy7oY0jE11IWzelu6ZfqbwwuXkM+FiIQsRCdk0TSto/RPPUwHk4cCUryN5ig==
+"@wangchaodeyuzhou/editor@^5.2.1":
+  version "5.2.1"
+  resolved "https://registry.npmjs.org/@wangchaodeyuzhou/editor/-/editor-5.2.1.tgz#cd8bcf36fafbdba0d1c9d95286a3cccfc08fadde"
+  integrity sha512-FS72ZiQ/mvZZ8wwleuEdNVtwFyL1tv55zZht7GTBsMA1YObrFzkW8Z5jqlJ7qZajlxaaC13dFI74T4AL33HD3g==
   dependencies:
     "@uppy/core" "^2.1.1"
     "@uppy/xhr-upload" "^2.0.3"
     "@wangchaodeyuzhou/basic-modules" "^1.2.0"
     "@wangchaodeyuzhou/code-highlight" "^1.1.0"
-    "@wangchaodeyuzhou/core" "^1.2.0"
+    "@wangchaodeyuzhou/core" "^1.2.1"
     "@wangchaodeyuzhou/list-module" "^1.1.0"
     "@wangchaodeyuzhou/table-module" "^1.2.0"
     "@wangchaodeyuzhou/upload-image-module" "^1.1.0"
